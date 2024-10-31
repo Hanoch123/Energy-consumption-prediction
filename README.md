@@ -16,10 +16,9 @@ A Data Science project predicting building energy consumption using regression m
 - **Random Forest** and **Gradient Boosting** were the best performing models for both heating and cooling load predictions.
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/yourusername/building-energy-consumption-prediction.git`
+1. Clone the repository: `git clone https://github.com/Hanoch123/Energy-consumption-prediction.git`
 2. Install necessary libraries: `pip install -r requirements.txt`
 3. Run the Jupyter notebook.
 
 ## Files
-- `Building_Energy_Consumption_Prediction.ipynb` - Jupyter Notebook with full code.
-- `Building_Energy_Consumption_Project_Presentation.pptx` - Presentation summarizing the project.
+- `Energy-consumption-prediction.ipynb` - Jupyter Notebook with full code.
